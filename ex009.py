@@ -18,4 +18,6 @@ print('{} x 6 = {}'.format(n1, s6))
 print('{} x 7 = {}'.format(n1, s7))
 print('{} x 8 = {}'.format(n1, s8))
 print('{} x 9 = {}'.format(n1, s9))
+
 print('{} x 10 = {}'.format(n1, s10))
+# forma de teste, sem loop
